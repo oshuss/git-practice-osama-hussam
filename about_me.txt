@@ -1,1 +1,3 @@
-
+Name: Osama
+Hobbies: Photography, Drawing
+Goals: To become a pro in software development
